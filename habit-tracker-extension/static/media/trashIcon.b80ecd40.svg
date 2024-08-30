@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131.076" height="105" viewBox="0 0 131.076 105">
+    <defs>
+        <style>
+            .cls-1{fill:#ffc76c}.cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_719" data-name="Group 719" transform="translate(-419 -367)">
+        <g id="Group_634" data-name="Group 634" transform="translate(-503 141)">
+            <rect id="Rectangle_167" width="131.076" height="105" class="cls-1" data-name="Rectangle 167" rx="10" transform="translate(922 226)"/>
+        </g>
+        <path id="bxs-trash" d="M8.372 18.115v32.23a5.374 5.374 0 0 0 5.372 5.372H40.6a5.374 5.374 0 0 0 5.372-5.372v-32.23h-37.6zm24.172 8.057h5.372v21.487h-5.372zm-16.115 0H21.8v21.487h-5.371zm21.487-13.429h13.429V7.372H39.576L35.23 2H19.115l-4.346 5.372H3v5.372h34.916z" class="cls-2" transform="translate(457.22 391.134)"/>
+    </g>
+</svg>

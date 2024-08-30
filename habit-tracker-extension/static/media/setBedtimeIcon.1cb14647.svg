@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.309" height="30.393" viewBox="0 0 54.309 30.393">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#fff}.cls-2{opacity:.75}
+        </style>
+    </defs>
+    <g id="Group_616" data-name="Group 616" transform="translate(-938 -242)">
+        <path id="Subtraction_1" d="M8428.109-2068.7a15.012 15.012 0 0 1-10.684-4.425A15.011 15.011 0 0 1 8413-2083.8a15.011 15.011 0 0 1 4.424-10.683 15.012 15.012 0 0 1 10.684-4.425 15.311 15.311 0 0 1 2.023.134 15.216 15.216 0 0 0-5.03 5.362 15.127 15.127 0 0 0-1.9 7.345 15.089 15.089 0 0 0 3.771 9.987 15.093 15.093 0 0 0 9.312 4.986 15.053 15.053 0 0 1-8.175 2.394z" class="cls-1" data-name="Subtraction 1" transform="translate(-7475.002 2341.091)"/>
+        <path id="Path_133" d="M0 6.793v1.428h6.931V6.7H2.406l4.41-5.273V0H.345v1.52H4.41z" class="cls-2" data-name="Path 133" transform="rotate(-12.04 1685.47 -4413.258)"/>
+        <path id="Path_132" d="M0 9.115v1.915h9.3V8.991H3.229l5.917-7.075V0H.463v2.039h5.454z" class="cls-2" data-name="Path 132" transform="rotate(9 -1053.791 6266.477)"/>
+        <path id="Path_131" d="M0 11v2.31h11.222v-2.461H3.9l7.139-8.538V0H.559v2.461h6.58z" class="cls-2" data-name="Path 131" transform="rotate(29 11.263 2022.848)"/>
+    </g>
+</svg>

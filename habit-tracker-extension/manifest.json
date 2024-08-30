@@ -1,0 +1,26 @@
+{
+    "browser_action": {
+        "default_popup": "index.html#popup",
+        "default_title": "Open the popup"
+    },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+
+    "description": "A habit tracker for celebrating your daily goals",
+    "icons": {
+        "128": "icon-128.png",
+        "16": "icon-16.png",
+        "48": "icon-48.png"
+    },
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxbcnJCbH23S3l9Dlx63kRO29odIcKnuXAHdYfrip4p2ui6YtWS/BURY+ZUSj5wdjl578Vl5dTRzCpm8WJBaVYhWnxASMms2hFueztffgQOoq1N/7xyvtviXQsxzjGID/gFAh7TqkalpRt5/pRnje0GfKomh7KW9hAw6U7vBSH/fnSbxJn8OeyQhznJZ0pMGV0QoSJk894xBJQdAVRfDCm/SyFmUygDbbVYLsLaPEXA8PxnPCpZZQm30MGN0hhfbcUl110VP6U3Pe6r8gzWosxfhgK9hzP+cJta8B0fUV0rdvUzoXrNCUfur9HLgDp4lamE8I2cEqDZL6iPg7xuKa3QIDAQAB",
+    "manifest_version": 2,
+    "name": " Habit Tracker",
+    "oauth2": {
+        "client_id": "600975367543-f1k384tentgl55kefe0j12c012031dbh.apps.googleusercontent.com",
+        "scopes": ["https://www.googleapis.com/auth/userinfo.email"]
+    },
+    "permissions": ["identity"],
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "version": "0.3.5"
+}
